@@ -1,0 +1,4 @@
+facebook.com, 136070864472876, DIRECT, c3e20eee3f780d68
+ironsrc.com, 177951, Direct
+google.com, pub-8644958469423958, DIRECT, f08c47fec0942fa0
+unity.com, 2605656, DIRECT, 96cabb5fbdde37a7
