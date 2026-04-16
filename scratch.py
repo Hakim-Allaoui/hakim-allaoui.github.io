@@ -1,4 +1,6 @@
+import sys
 
+css_content = """
 /*--------------------------------------------------------------
 # General - Minimalist Creative Dark Style
 --------------------------------------------------------------*/
@@ -384,3 +386,9 @@ section { padding: 120px 0; overflow: hidden; border-top: 1px solid var(--border
   color: var(--primary);
 }
 #footer .copyright { margin: 0; font-family: "Outfit", sans-serif;}
+"""
+
+with open('assets/css/style.css', 'w') as f:
+    f.write(css_content)
+
+print("Minimalist CSS generated.")
